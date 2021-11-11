@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>🧙‍♂️ Vijard</title>
+	<subtitle>Welcome to my world of leisure</subtitle>
+	<link href="https://accio-demo.netlify.app/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://accio-demo.netlify.app/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-10-25T00:00:00+00:00</updated>
+	<id>https://accio-demo.netlify.app/atom.xml</id>
+	<entry xml:lang="en">
+		<title>The Setup</title>
+		<published>2021-10-25T00:00:00+00:00</published>
+		<updated>2021-10-25T00:00:00+00:00</updated>
+		<link href="https://accio-demo.netlify.app/blog/the-setup/" type="text/html"/>
+		<id>https://accio-demo.netlify.app/blog/the-setup/</id>
+		<content type="html">&lt;pre data-lang=&quot;java&quot; style=&quot;background-color:#212121;color:#eeffff;&quot; class=&quot;language-java &quot;&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span style=&quot;color:#ffcb6b;&quot;&gt;Rome&lt;&#x2F;span&gt;&lt;span&gt; wasnt built in a day&lt;&#x2F;span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span&gt;neither will &lt;&#x2F;span&gt;&lt;span style=&quot;font-style:italic;color:#ff5370;&quot;&gt;this&lt;&#x2F;span&gt;&lt;span&gt; be
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;After getting fed up of my very colorful &lt;code&gt;template&lt;&#x2F;code&gt; React page, and procastinating for more than 2 months on building a blog page , today is when I finally start it.
+&lt;br&gt;
+Thought of making a theme of own,something minimilist, from scratch as it would be a great learning experience with &lt;code&gt;sass&lt;&#x2F;code&gt; , ssg&#x27;s and templating library.
+Since this is &lt;br&gt; going to take long, So a request 🙏 to reader , do visit the page frequently as you might see great some changes.Using a refernce of many blogs which I admire
+&lt;br&gt;(would reference them in future),and probably would take a lot of help along the way, and hoping to make this something great.
+&lt;br&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Would be logging the timeline of the changes in this very blog 😉.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;25th October 2021&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up of the blog through Zola, and made the very first blog.&lt;&#x2F;li&gt;
+&lt;li&gt;using a primary dark theme.&lt;&#x2F;li&gt;
+&lt;li&gt;Changed font&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;26th october 2021&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a basic 404 page&lt;&#x2F;li&gt;
+&lt;li&gt;Made simple header and would customize it in the next few days&lt;&#x2F;li&gt;
+&lt;li&gt;Added categories taxonomy and some minor css tweaks&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;27th October 2021&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adjusted max screen width on large screens and some minor css tweaks 😄&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1st November 2021&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Mobile navbar,some changes remain , added Resume&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;10th November 2021&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added About Me section and somewhat made a footer whose css needs updates&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>
